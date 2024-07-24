@@ -45,6 +45,18 @@ Monitor order processing efficiency and evaluate courier services for timely del
 ### 🛍 Sales Channels and B2B Sales
 Compare sales across different channels and analyze the contribution of B2B sales to overall performance.
 
+-- It includes multiple pages with the following views:
+
+- Map quantity by state
+- Quantity by week and category
+- Amount by week and category
+- Quantity by size and category
+- Top 10 states by quantity and category, ship and status
+- Quantity by status and category
+- Quantity by courier status and category
+- Quantity by sales channels and category
+- B2B sales quantity
+
 # 💡 Insights
 
 - Sales Hotspots: Identify regions with the highest demand and target them for promotions.
