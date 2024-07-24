@@ -45,6 +45,8 @@ Monitor order processing efficiency and evaluate courier services for timely del
 ### Sales Channels and B2B Sales
 Compare sales across different channels and analyze the contribution of B2B sales to overall performance.
 
+## Dashboard Link: https://public.tableau.com/app/profile/brahmi.rathod/viz/Amazon_Sales_17196927473180/Dashboard1?publish=yes
+
 It includes multiple pages with the following views:
 
 - Map quantity by state
