@@ -47,8 +47,8 @@ Compare sales across different channels and analyze the contribution of B2B sale
 
 # 💡 Insights
 
-Sales Hotspots: Identify regions with the highest demand and target them for promotions.
-Seasonal Trends: Plan inventory and marketing campaigns based on weekly sales patterns.
-Customer Preferences: Optimize product offerings by understanding size preferences.
-Operational Improvements: Enhance order processing and delivery by evaluating order status and courier performance.
-Channel Optimization: Focus on the most effective sales channels to maximize revenue.
+- Sales Hotspots: Identify regions with the highest demand and target them for promotions.
+- Seasonal Trends: Plan inventory and marketing campaigns based on weekly sales patterns.
+- Customer Preferences: Optimize product offerings by understanding size preferences.
+- Operational Improvements: Enhance order processing and delivery by evaluating order status and courier performance.
+- Channel Optimization: Focus on the most effective sales channels to maximize revenue.
