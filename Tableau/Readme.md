@@ -27,25 +27,25 @@ B2B sales performance.
 
 # 📈 Visualizations
 
-### 🗺 Sales by State
+### Sales by State
 Discover which states have the highest and lowest sales quantities.
 
-### 📅 Weekly Sales and Revenue
+### Weekly Sales and Revenue
 Track sales trends and revenue generation over time across various product categories.
 
-### 📦 Sales by Product Size
+### Sales by Product Size
 Understand customer preferences by analyzing sales performance based on product size.
 
-### 🏆 Top 10 States by Category
+### Top 10 States by Category
 Identify the top-performing states for each product category to optimize marketing strategies.
 
-### ⚙️ Order Status and Courier Performance
+### Order Status and Courier Performance
 Monitor order processing efficiency and evaluate courier services for timely deliveries.
 
-### 🛍 Sales Channels and B2B Sales
+### Sales Channels and B2B Sales
 Compare sales across different channels and analyze the contribution of B2B sales to overall performance.
 
--- It includes multiple pages with the following views:
+It includes multiple pages with the following views:
 
 - Map quantity by state
 - Quantity by week and category
